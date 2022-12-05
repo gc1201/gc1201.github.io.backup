@@ -6065,6 +6065,10 @@ button.btn, input.btn {
       color: #b9b1ad;
       background-color: #EFEBE9; }
 
+.carousel-control.left, .carousel-control.right {
+  background-image: none !important;
+  filter: none !important; }
+
 /*--------------------------------------------------------------
 	4.0 Footer
 --------------------------------------------------------------*/
