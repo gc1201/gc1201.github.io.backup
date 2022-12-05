@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello. I&apos;m Jami Gibbs.</title>
-    <description>I&apos;m a software developer and designer from Chicago creating useful things for the web.</description>
+    <title>Hello. I&apos;m Guangyue Cao.</title>
+    <description>I am a Data Analyst and Urban Designer with extensive project experience in analytics and urban design. Possessing interdisciplinary perspectives to identify, analyze, and solve problems, proficiency in using multiple platforms and visual programming skills to transform data into design solutions and strategy. </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2022 17:33:00 -0800</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2022 17:33:00 -0800</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2022 18:11:41 -0800</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2022 18:11:41 -0800</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
