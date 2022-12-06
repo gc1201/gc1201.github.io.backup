@@ -6027,8 +6027,8 @@ button.btn, input.btn {
     .content-wrap img.img-responsive {
       display: none; } }
   .content-wrap .content {
-    margin-top: 5em;
-    margin-left: 5em; }
+    margin-top: 0em;
+    margin-left: 2em; }
     @media only screen and (max-width: 768px) {
       .content-wrap .content {
         margin-left: 0; } }

@@ -1,5 +1,5 @@
 <div class="content">
-  <h3 class="title">{{ post.title }}</h3>
+  <h3 class="title post-title">{{ post.title }}</h3>
 
   <p class="excerpt">{{ post.lead_text }}</p>
 
@@ -10,7 +10,7 @@
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
-    <span>{{ tag }}</span>
+    <span>{{ tag.name }}</span>
     {% endfor %}
   </div>
   {% endif %}

@@ -264,8 +264,8 @@ button.btn, input.btn {
     }
   }
   .content {
-    margin-top: 5em;
-    margin-left: 5em;
+    margin-top: 0em;
+    margin-left: 2em;
     @include bp-xsmall {
       margin-left: 0;
     }
